@@ -10,19 +10,18 @@ Made for minecraft 1.12.2 don't ask me anything if it doesn't work
 
 # Modules
 Combat <br>
-    |_Velocity
-    
-Exploits
-    |_FakeCreative
 
-Movement
-    |_Bhop
-    |
-    |_Jesus
-    |
-    |_Speed
-    |
-    |_Sprint
+    Velocity
+    
+Exploits 
+
+    FakeCreative
+
+Movement <br>
+    Bhop
+    Jesus
+    Speed
+    Sprint
 
 render
     |_ClickGUI
