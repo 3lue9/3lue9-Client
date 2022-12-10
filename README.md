@@ -7,6 +7,33 @@ Made for minecraft 1.12.2 don't ask me anything if it doesn't work
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+
+# Modules
+Combat
+    |_Velocity
+    
+Exploits
+    |_FakeCreative
+
+Movement
+    |_Bhop
+    |
+    |_Jesus
+    |
+    |_Speed
+    |
+    |_Sprint
+
+render
+    |_ClickGUI
+    |
+    |_FullBright
+    |
+    |_Hud
+    |
+    |_NameTags
+
+
 # credits
 
 [Stack Overflow literally everything](stackoverflow.com) 
