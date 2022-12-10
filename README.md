@@ -9,7 +9,7 @@ Made for minecraft 1.12.2 don't ask me anything if it doesn't work
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 # Modules
-Combat
+Combat <br>
     |_Velocity
     
 Exploits
