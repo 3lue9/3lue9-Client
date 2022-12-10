@@ -17,20 +17,19 @@ Exploits
 
     FakeCreative
 
-Movement <br>
-    Bhop
-    Jesus
-    Speed
+Movement 
+
+    Bhop,
+    Jesus,
+    Speed,
     Sprint
 
 render
-    |_ClickGUI
-    |
-    |_FullBright
-    |
-    |_Hud
-    |
-    |_NameTags
+
+    ClickGUI,
+    FullBright,
+    Hud,
+    NameTags
 
 
 # credits
