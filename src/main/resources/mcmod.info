@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lueclient",
+  "name": "3lue9 Client",
+  "description": "A minecraft utility mod by 3lue9",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Huddle, XeonLyfe, VacCat"],
+  "credits": "Huddle, XeonLyfe, VacCat",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
