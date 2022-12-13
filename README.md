@@ -1,5 +1,6 @@
 # 3lue9 Client
-Made for minecraft 1.12.2 don't ask me anything if it doesn't work
+Made for minecraft 1.12.2 it doesn't work but try it
+
 
 # stats (total times i cursed)
 
