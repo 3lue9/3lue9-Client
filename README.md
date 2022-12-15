@@ -4,10 +4,9 @@ Made for minecraft 1.12.2 it doesn't work but try it
 
 # stats (total times i cursed)
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+![GitHub Releases](https://img.shields.io/github/downloads/3lue9/3lue9-Client/total)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/3lue9/3lue9-Client)
+
 
 # Modules
 Combat <br>
