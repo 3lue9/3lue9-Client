@@ -1,6 +1,8 @@
 # 3lue9 Client
 Made for minecraft 1.12.2 it doesn't work but try it
 
+#Tutorial
+https://www.youtube.com/watch?v=SwD_c82QWeA&t=3s
 
 # stats (total times i cursed)
 
