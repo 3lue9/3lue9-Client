@@ -1,0 +1,27 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-12-18 21:16:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-12-18 21:16:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-12-18 21:16:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2022-12-18 21:16:27 +0100",
+      "savanna_rock": "2022-12-18 21:16:53 +0100"
+    },
+    "done": false
+  }
+}

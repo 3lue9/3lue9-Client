@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: 3lue9-Client
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2023-01-30T18:39:20+0100
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

@@ -1,10 +1,9 @@
 package cf.vaccat.catclient.module;
 
 import net.minecraft.client.Minecraft;
-import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.common.MinecraftForge;
 
-public abstract class Module {
+public class Module {
 
 	protected static Minecraft mc = Minecraft.getMinecraft();
 
@@ -56,30 +55,8 @@ public abstract class Module {
 	public void toggle() {
 		this.toggled = !this.toggled;
 
-		if (this.toggled) {
-			this.onEnable();
-		} else {
-			this.onDisable();
-		}
-	}
-
-	public void onEnable() {
-		MinecraftForge.EVENT_BUS.register(this);
-	}
-
-	public void onDisable() {
-		MinecraftForge.EVENT_BUS.unregister(this);
-	}
-
-	public String getName() {
-		return this.name;
-	}
-
-	public Category getCategory() {
-		return this.category;
-	}
-
-	protected Module name() {
-		return null;
-	}
-}
+		if (this.toggled) {this.onEnable();} else {this.onDisable();}}
+	public void onEnable() {MinecraftForge.EVENT_BUS.register(this);}
+	public void onDisable() {MinecraftForge.EVENT_BUS.unregister(this);}
+	public String getName() {return this.name;}
+	public Category getCategory() {return this.category;}}

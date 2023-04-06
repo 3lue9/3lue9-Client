@@ -8,10 +8,12 @@ import cf.vaccat.catclient.clickgui.component.Component;
 import cf.vaccat.catclient.clickgui.component.Frame;
 import net.minecraft.client.gui.GuiScreen;
 
+import static cf.vaccat.catclient.module.utils.Rainbow.Rainbow.rainbow;
+
 public class ClickGui extends GuiScreen {
 
 	public static ArrayList<Frame> frames;
-	public static int color = -1;
+	public static int color = -2;
 	
 	public ClickGui() {
 		this.frames = new ArrayList<Frame>();
@@ -96,6 +98,6 @@ public class ClickGui extends GuiScreen {
 	
 	@Override
 	public boolean doesGuiPauseGame() {
-		return true;
+		return false;
 	}
 }

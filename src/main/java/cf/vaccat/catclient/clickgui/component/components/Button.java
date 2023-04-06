@@ -11,6 +11,7 @@ import cf.vaccat.catclient.settings.Setting;
 import org.lwjgl.opengl.GL11;
 
 import cf.vaccat.catclient.clickgui.component.Frame;
+import cf.vaccat.catclient.clickgui.*;
 import cf.vaccat.catclient.clickgui.component.components.sub.Checkbox;
 import cf.vaccat.catclient.clickgui.component.components.sub.Keybind;
 import cf.vaccat.catclient.clickgui.component.components.sub.ModeButton;
@@ -56,7 +57,8 @@ public class Button extends Component {
 		this.subcomponents.add(new Keybind(this, opY));
 		this.subcomponents.add(new VisibleButton(this, mod, opY));
 	}
-	
+
+
 	@Override
 	public void setOff(int newOff) {
 		offset = newOff;

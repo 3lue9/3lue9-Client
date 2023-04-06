@@ -36,7 +36,7 @@ public class NameTags extends Module {
         GL11.glScaled(scale, scale, scale);
         int health = (int) Math.ceil(entity.getHealth());
 
-        EntityRenderer.drawNameplate(mc.fontRenderer, entity.getDisplayName().getFormattedText() + " §c" + health, 0, 0, 0, 0,
+        EntityRenderer.drawNameplate(mc.fontRenderer, entity.getDisplayName().getFormattedText() + " §c "+ health , 0, 0, 0, 0,
                 mc.getRenderManager().playerViewY,
                 mc.getRenderManager().playerViewX,
                 mc.gameSettings.thirdPersonView == 2, false

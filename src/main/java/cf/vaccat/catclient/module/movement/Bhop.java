@@ -2,7 +2,6 @@ package cf.vaccat.catclient.module.movement;
 
 
 import cf.vaccat.catclient.module.Category;
-import net.minecraftforge.client.event.RenderGameOverlayEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
 import cf.vaccat.catclient.module.Module;
@@ -18,6 +17,4 @@ public class Bhop extends Module {
                 mc.player.jump();
         }
     }
-
-
 }
